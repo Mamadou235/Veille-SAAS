@@ -20,29 +20,3 @@ h1,h2{ color: green;
 /*.divim{width: 0px;
        height: 0px;
 }*/
-{
-  color: green;
-  /*background-image: url("im.jpg");
-  background-size: 500px 500px 500px;
-  text-align: center;
-  /*margin: 20px;
-  /*padding:2%;
-  display: inline-block*/
-
-
-.trois {
-  color: white;
-  background-color: var(--main-bg-color);
-  margin: 10px;
-  width: 75px;
-}
-.quatre {
-  color: white;
-  background-color: var(--main-bg-color);
-  margin: 10px;
-  width: 100px;
-}
-
-.cinq {
-  background-color: var(--main-bg-color);
-}
