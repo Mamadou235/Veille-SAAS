@@ -11,8 +11,8 @@ body {
   background-color: #03224C ;
   margin: 100px;
   text-align: justify center ;
-  display: inline;
-  font-size: 1.8em;
+  display: inline-block;
+  font-size: 1.4em;
 }
 h1,h2{ color: green;
 }
